@@ -1,0 +1,17 @@
+{
+  "name": "plural-react-full-stack",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Laszlo-Lazuer <visualjazz@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Laszlo-Lazuer/plural-react-full-stack",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
